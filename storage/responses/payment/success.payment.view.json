@@ -1,0 +1,9 @@
+{
+    "data": {
+        "id": 1,
+        "uuid": "48e565f9-7e10-4080-af26-f251801867ad",
+        "booking_id": 1,
+        "url": "https://sandbox3.payture.com/apim/Pay?SessionId=618bfb89-c70b-820b-cb81-9b954f10e377",
+        "status": "new"
+    }
+}
